@@ -8,6 +8,9 @@ public static void main(String[] args) {
 		
 		
 		System.out.println("Enter the First String");
+	System.out.println("Enter the Second String");
+	
+	
 
 }
 }
